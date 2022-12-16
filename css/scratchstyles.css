@@ -1,0 +1,41 @@
+hr {
+    size: 1px;
+    width: 30%;
+    color: #444444;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    background-color: #f7f9cd;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+ol {
+    font-weight: bold;
+    color: #222222;
+    font-size: 16px;
+}
+
+ul {
+    color: #666666;
+    font-size: 14px;    
+    font-weight: normal;
+}
+
+li {
+    padding-top: 3px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: maroon;
+    text-decoration: underline;
+}
